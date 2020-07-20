@@ -1,0 +1,26 @@
+1.What is Python? What are the ways to install Python?
+Answer:
+Python is an interpreted, Object-Oriented, high-level programming language which was created and developed by Guido Van Rossum in 1991. Python is simple, easy to learn. It was backed up and used by Google in 2006 and later on.
+
+1) Using Anaconda
+- Open www.anaconda.com
+- Select Individual Edition from Products Menu
+- Download it according to your OS
+- Install it
+
+2) From Official Python site
+- Open www.python.org
+- Click on Downloads
+- A list of versions will be prompted, click on Download of your choice
+- Download python installer for your OS
+- Install it
+
+
+2) What are Code Environments? Types ?
+Answer: 
+A code environment is a standalone and self-contained environment where you can edit, read, and in some cases run your code. 
+
+Types of Code Environment-
+a)Text Editors
+b)Full IDE
+c)Notebook Environments.
